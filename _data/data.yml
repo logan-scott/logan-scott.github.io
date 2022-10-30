@@ -13,8 +13,7 @@ sidebar:
 
     # Sidebar links
     email: lscott32@vols.utk.edu
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    timezone: Knoxville, TN
     citizenship:
     website: logan-scott.github.io #do not add http://
     linkedin: loganscottlgs
@@ -127,5 +126,8 @@ skills:
       - name: MATLAB
         level: 85%
 
-      - name: Networking
-        level: 60%
+      - name: FPGAs
+        level: 90%
+      
+      - name: Microcontrollers
+        level: 90%
